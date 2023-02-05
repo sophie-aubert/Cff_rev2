@@ -1,0 +1,25 @@
+{
+  "name": "cff_revision2",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophie-aubert/Cff_rev2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophie-aubert/Cff_rev2/issues"
+  },
+  "homepage": "https://github.com/sophie-aubert/Cff_rev2#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
